@@ -1,2 +1,122 @@
 # what-we-have-done
 all project done in the time
+
+
+- n-essio/what-we-have-done       all project done in the time    public  2021-03-24T22:27:51Z
+- n-essio/smart-mta-ng            private 2021-03-24T18:04:35Z
+- n-essio/smart-mta       smart-mta       private 2021-03-24T18:03:10Z
+- n-essio/nso-orders      nso-orders      private 2021-03-24T15:02:56Z
+- n-essio/bim-cps-ami     bim-cps-ami     private 2021-03-24T14:52:51Z
+- n-essio/keycloak-custom-mapper-ldapgroups               private 2021-03-24T14:03:35Z
+- n-essio/cleaning-cloths-mobile  cleaning-cloths-mobile  private 2021-03-24T13:47:44Z
+- n-essio/cps-bim-ng      cps-bim-ng      private 2021-03-23T17:41:19Z
+- n-essio/bim-cps-ami-ng          private 2021-03-23T17:34:31Z
+- n-essio/syncro-git-ocp  syncro-git-ocp  private 2021-03-23T16:44:19Z
+- n-essio/track-deliveries-mobile track-deliveries-mobile private 2021-03-23T16:07:39Z
+- n-essio/waste-tracing-mobile    waste-tracing-mobile    private 2021-03-23T16:07:11Z
+- n-essio/cps-bim-admin-ng        cps-bim-admin-ng        private 2021-03-23T15:46:46Z
+- n-essio/cps-bim cps-bim private 2021-03-23T12:21:37Z
+- n-essio/track-deliveries        track deliveries        private 2021-03-23T12:12:01Z
+- n-essio/cps-report-portal-ng    angular portal  private 2021-03-23T10:49:37Z
+- n-essio/waste-tracing   waste tracing   private 2021-03-22T16:26:05Z
+- n-essio/newlanduhf-module       newlanduhf-module       private 2021-03-22T09:08:53Z
+- n-essio/cleanit-pannetti-ng     cleanit-pannetti-ng     private 2021-03-22T09:08:11Z
+- n-essio/cleanit-pannetti-mobile cleanit-pannetti-mobile private 2021-03-22T09:07:34Z
+- n-essio/cleanit-pannetti                private 2021-03-22T09:05:52Z
+- n-essio/cleaning-cloths cleaning-cloths private 2021-03-22T09:04:26Z
+- n-essio/reartu-server           private 2021-03-19T16:12:21Z
+- n-essio/reartu          private 2021-03-19T15:07:36Z
+- n-essio/cleaning-cloths-ng      cleaning-cloths-ng      private 2021-03-19T13:13:20Z
+- n-essio/waste-tracing-ng        waste-tracing-ng        private 2021-03-19T11:25:48Z
+- n-essio/cps-report-pentaho-integration  pentaho integration     private 2021-03-18T13:14:03Z
+- n-essio/cps-report-portal               private 2021-03-18T13:07:30Z
+- n-essio/nso-orders-ng   nso orders ng   private 2021-03-18T09:46:11Z
+- n-essio/track-deliveries-ng     track-deliveries-ng     private 2021-03-18T09:19:58Z
+- n-essio/cps-report-admin-portal-ng      admin portal    private 2021-03-18T09:13:12Z
+- n-essio/cps_surveys_ng  cps_surveys_ng  private 2021-03-16T10:54:01Z
+- n-essio/sync_services   create docker-compose project on remote server  private 2021-03-15T12:02:06Z
+- n-essio/cps_odl_actions actions private 2021-03-12T16:57:55Z
+- n-essio/queryable       It's a Maven plugin to generate quickly java classes for JAX-RS controllers using with Quarkus and Hibernate Panache, with Hibernate @Filters on @Entity classes annotated.     public  2021-03-12T13:11:07Z
+- n-essio/cps-report-powerbi-integration  Power BI Embedded       private 2021-03-11T18:25:08Z
+- n-essio/plab            private 2021-03-08T21:29:45Z
+- n-essio/cps-report-azure-proxy  cps-report-azure-proxy  private 2021-03-04T16:53:00Z
+- n-essio/video-steriliza video steriliza demo portal     private 2021-03-04T16:33:46Z
+- n-essio/tender-system   tender-system   private 2021-03-04T08:42:26Z
+- n-essio/queryable-tutorial      queryable tutorial      public  2021-03-04T07:13:53Z
+- n-essio/tender-system-ng        tender-system-ng        private 2021-03-03T11:05:59Z
+- n-essio/plab-ng plab-ng private 2021-02-28T23:05:52Z
+- n-essio/portal-messages-ng      portal-messages-ng      private 2021-02-24T15:48:02Z
+- n-essio/portal-messages         private 2021-02-24T15:47:30Z
+- n-essio/portal-documents-ng             private 2021-02-24T10:30:51Z
+- n-essio/cps-portale-gare                private 2021-02-22T14:23:53Z
+- n-essio/rx-companycars  reactive version of companycars private 2021-02-22T11:32:05Z
+- n-essio/k3s-backup              private 2021-02-17T13:40:01Z
+- n-essio/queryable-reactive-api  queryable-reactive-api  public  2021-02-16T07:22:33Z
+- n-essio/companycars     company cars project    private 2021-02-12T16:38:51Z
+- n-essio/queryable-api   queryable-api   public  2021-02-12T04:15:39Z
+- n-essio/kimera          private 2021-02-11T09:03:08Z
+- n-essio/cps-mobile-app-version  cps-mobile-app-version  private 2021-02-10T14:58:50Z
+- n-essio/kimera-ng       kimera ng       private 2021-02-09T17:28:10Z
+- n-essio/hub-rs  hub-rs  private 2021-02-09T15:45:36Z
+- n-essio/quarkus-soap-client     soap emulator   private 2021-02-06T04:32:50Z
+- n-essio/cps-digital-twin        cps-digital-twin        private 2021-02-02T21:24:22Z
+- n-essio/filterdef-maven-plugin  Java code Generator for Quarkus + HIbernate Panache Project     public  2021-01-30T09:11:26Z
+- n-essio/portal-creator-cli      portal-creator-cli      private 2021-01-28T10:00:59Z
+- n-essio/portal-documents                private 2021-01-26T15:33:40Z
+- n-essio/portale-gare-si         private 2021-01-18T20:20:41Z
+- n-essio/formly-repository-ng            private 2021-01-13T16:20:00Z
+- n-essio/sixlogistics-ng sixlogistics-ng private 2021-01-12T14:24:47Z
+- n-essio/formly-repository       This is a store of JSON form configurations in the database.    private 2021-01-12T12:19:40Z
+- n-essio/sixlogistics    sixlogistics    private 2021-01-12T11:53:27Z
+- n-essio/test-azure-demo test-azure-demo private 2021-01-07T07:38:35Z
+- n-essio/milio   milio   public  2021-01-06T22:29:26Z
+- n-essio/cps-ldap        cps-ldap        private 2021-01-05T09:38:03Z
+- n-essio/keycloak-migration      keycloak-migration (from 7 to 11)       private 2021-01-04T14:47:31Z
+- n-essio/kon-twi-qua     konte twilio quarkus    private 2020-12-30T17:06:44Z
+- n-essio/nestjs-test     nestjs test     public  2020-12-26T18:56:52Z
+- n-essio/sso-demo        sso-demo angular        private 2020-12-24T09:14:44Z
+- n-essio/cps_customer_experience coopservice customer experience private 2020-12-22T13:27:20Z
+- n-essio/tree-poc        tree poc        private 2020-12-17T19:20:07Z
+- n-essio/sap_proxy_system        sap proxy system        private 2020-12-15T21:44:52Z
+- n-essio/image-resizer   image-resizer   public  2020-12-07T14:15:44Z
+- n-essio/quarkus-k3s     quarkus-k3s     private 2020-12-07T01:35:26Z
+- n-essio/k3s_sync_services       deploy services on remote k3s (n3s.it)  private 2020-12-06T22:37:51Z
+- n-essio/k3s-traefik-v2-kubernetes-crd           private 2020-12-06T22:00:01Z
+- n-essio/quarkus-ws      quarkus-ws      private 2020-12-02T13:27:31Z
+- n-essio/sap_proxy_system_internal       sap proxy system: internal api to monitoring the sap changing   private 2020-11-30T20:04:50Z
+- n-essio/portale-gare-templates  templates to generate a portal  public  2020-11-26T13:44:59Z
+- n-essio/ness-it-site    web site        private 2020-11-25T15:32:42Z
+- n-essio/quarkus-s3-minio        example to use quarkus with minio client        public  2020-11-21T10:49:48Z
+- n-essio/cps-ldap-ng     cps-ldap-ng     private 2020-11-20T22:35:48Z
+- n-essio/ness_wiki       all our world!  public  2020-11-18T16:29:16Z
+- n-essio/cps_timbrature  cps_timbrature  private 2020-11-17T12:20:51Z
+- n-essio/ness-formly     ness-formly     private 2020-11-16T15:41:26Z
+- n-essio/keycloak-nodejs-microservice    simple node app with keycloak   public  2020-11-11T18:44:22Z
+- n-essio/traefik-user-agent      traefik redirect using the Haderuser-agent      private 2020-11-08T22:58:24Z
+- n-essio/ness-quarkus-ldap       quarkus use ldap        private 2020-11-06T17:02:25Z
+- n-essio/wow     wow     private 2020-11-05T15:15:22Z
+- n-essio/ness-liveupdate ness-liveupdate private 2020-11-04T11:51:09Z
+- n-essio/nessit  test to use new cdk/portal api  private 2020-11-03T00:12:47Z
+- n-essio/cps_twilio_events       quarkus using twilio api to call and to receive events  private 2020-11-02T14:58:42Z
+- n-essio/ness_activities_mobile  ness_activities_mobile  private 2020-11-02T09:16:37Z
+- n-essio/ness_users_mobile       ness_users_mobile       private 2020-11-02T09:16:06Z
+- n-essio/cps_odl_actions_design  cps_odl_actions_design  private 2020-10-29T09:25:39Z
+- n-essio/ness-autoupdate ness-autoupdate private 2020-10-27T09:08:06Z
+- n-essio/ness-docs       ness docs       private 2020-10-26T11:58:50Z
+- n-essio/ness-pec        simple project to show the use of pec   private 2020-10-26T08:34:24Z
+- n-essio/ness-dashboard  ness dashboard  private 2020-10-25T10:19:21Z
+- n-essio/sap_emulator    sap emulator    private 2020-10-22T10:33:04Z
+- n-essio/partner-client  partner client (sap system)     private 2020-10-21T09:46:15Z
+- n-essio/ness_users_activities   ness_users_activities   private 2020-10-19T22:01:29Z
+- n-essio/it-dev-ng       backend of it-it.dev    public  2020-10-14T16:37:35Z
+- n-essio/receipt_collector_mobile        RINO    private 2020-10-13T06:48:45Z
+- n-essio/receipt-collector-service       receipt-collector-service       private 2020-10-12T15:58:47Z
+- n-essio/eggs-gestione-cataloghi         private 2020-10-01T20:08:48Z
+- n-essio/it-dev-services it-dev backend services public  2020-09-25T12:01:55Z
+- n-essio/sso-demomobile  sso-demomobile  private 2020-09-21T21:03:02Z
+- n-essio/it-dev-api      public api      public  2020-09-20T22:23:23Z
+- n-essio/it-dev-ng-site  public angular web site public  2020-08-31T23:42:11Z
+- n-essio/quarkus-archetype       mvn archetype to create quarkus project public  2020-08-21T15:22:47Z
+- n-essio/it-dev-staticsite       public web site of it-it.dev    public  2020-08-21T08:53:55Z
+- n-essio/quarkus-hibernate-types Quarkus hibernate types extension       public, fork    2020-07-10T11:46:14Z
+- n-essio/quarkus-actions-validator       quarkus project to validate json objects using kafka queues     public  2019-07-04T07:09:13Z
