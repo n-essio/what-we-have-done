@@ -17,12 +17,11 @@ all project done in the time
 - n-essio/queryable      
 - n-essio/video-steriliza
 - n-essio/tender-system    (api+admin-ng)
-- n-essio/cps-portale-gare                private 2021-02-22T14:23:53Z
-- n-essio/kimera-ng       kimera ng       private 2021-02-09T17:28:10Z
+- n-essio/cps-portale-gare                 
 - n-essio/hub-rs  
 - n-essio/quarkus-soap-client    
 - n-essio/portal-creator-cli      
-- n-essio/formly-repository-ng            private 2021-01-13T16:20:00Z
+- n-essio/formly-repository-ng            
 - n-essio/sixlogistics (api+ng)
 - n-essio/cps-ldap   (api+ng)
 - n-essio/keycloak-migration   
@@ -31,5 +30,5 @@ all project done in the time
 - n-essio/sap_proxy_system (sap-emulator+partner-client
 - n-essio/image-resizer   
 - n-essio/quarkus-ws     
-- n-essio/cps_timbrature  
+- n-essio/cps_timbrature  (api+mobile)
 - n-essio/cps_odl_actions_design  
